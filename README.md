@@ -1,6 +1,6 @@
 # AutoFormerV2 Model Zoo
 
-This is the model zoo for our NeurIPS 2021 paper [`Searching the Search Space of Vision Transformer`](https://arxiv.org/abs/2107.00651).
+This is the model zoo for our NeurIPS 2021 paper [`Searching the Search Space of Vision Transformer`](https://arxiv.org/abs/2111.14725).
 
 **The code** is given [here](https://github.com/microsoft/Cream/tree/main/AutoFormerV2).
 
